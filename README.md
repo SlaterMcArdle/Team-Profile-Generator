@@ -32,10 +32,10 @@
   ## Usage Instructions
   Run the server.js file with node.
 
-  Find an example video here: 
+  Find an example video [here:](https://drive.google.com/file/d/1fYl-0Fh0a-37vVQxjMkILcYRQsaKPXb2/view)
 
   ## Contribution Instructions
-  undefined
+  Updated styling
 
   ## Testing Instructions
   Using jest.
