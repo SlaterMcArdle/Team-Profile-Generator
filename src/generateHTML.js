@@ -11,9 +11,15 @@ const generateHTML = (cardSection) => {
         <!-- Bootstrap CSS CDN Link -->
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
     </head>
-    <body>`;
+    <body>
+    <nav class="navbar navbar-expand-lg align-content-center bg-danger text-white mb-3">
+            <h1 class="text-center w-100">My Team</h1>
+        </nav>
+        <div class="card-container d-flex flex-row flex-wrap justify-content-around">`;
         
-    const boilerplateBottom = `<!-- Bootstrap JS CDN Link -->
+    const boilerplateBottom = `
+    </div>
+    <!-- Bootstrap JS CDN Link -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
     </body>
     </html>`;
