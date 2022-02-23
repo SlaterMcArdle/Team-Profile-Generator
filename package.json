@@ -1,0 +1,25 @@
+{
+  "name": "Team-Profile-Generator",
+  "version": "1.0.0",
+  "description": "Bootcamp Homework 10",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlaterMcArdle/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlaterMcArdle/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/SlaterMcArdle/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
